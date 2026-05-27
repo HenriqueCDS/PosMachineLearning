@@ -1,0 +1,10 @@
+
+1 - Quero saber se a vendas aumentaram com decorrer do tempo? 
+2 - Qual o genero de jogo mais vendido? 
+3 - Qual plaforma vendeu mais? 
+4 - Qual o valor total global arrecadado? 
+5 - Entre qual anos apresentado? 
+6 - Qual o ano que vendeu mais? Qual vendeu menos? 
+7 - Qual a media De vendas?
+9 - Como as vendas se distribuíram por região (NA, EU, JP, Other)?
+10 - Quais os 10 jogos mais vendidos de todos os tempos?
